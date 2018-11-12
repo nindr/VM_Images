@@ -1,2 +1,2 @@
-# VM_Images
+# Virtual
 This Repository has all the VBox Images for Vagrant
